@@ -6,16 +6,10 @@ board =   [" "," "," "," "," "," "," "," "," "]
 
 puts "Welcome to Tic Tac Toe!"
 puts "Where would you like to play?"
-<<<<<<< HEAD
-=======
 puts "Please enter 1-9:"
->>>>>>> 7f9833c4076f105ef99aa0bb9c75f799c6c500a3
 
 display_board(board)
 
 turn(board)
-<<<<<<< HEAD
 turn(board)
 turn(board)
-=======
->>>>>>> 7f9833c4076f105ef99aa0bb9c75f799c6c500a3
